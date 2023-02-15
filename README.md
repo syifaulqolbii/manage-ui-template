@@ -3,7 +3,7 @@ This is Website UI Templates where convert design to HTML and CSS using Tailwind
 
 References : Tailwind Crash Course - Traversy Media (https://youtu.be/dFgzHOX84xQ)
 
-Link Demo : 
+Link Demo : https://syifaulqolbii.github.io/manage-ui-template/
 
 Desktop View : 
 
